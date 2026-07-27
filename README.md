@@ -7,7 +7,7 @@ Served via GitHub Pages from the `main` branch, root folder.
 
 - `index.html` — landing page
 - `privacy.html` — Privacy Policy
-- `terms.html` — Terms of Service
+- `terms.html` — Terms of Service  
 - `style.css` — shared styles
 
 Both policy links are visible in the header and footer of every page, as
